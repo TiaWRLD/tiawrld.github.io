@@ -1,2 +1,6 @@
-title:
-theme: minima
+title: GeekCode Italia
+description: Blog italiano su informatica, sicurezza e programmazione
+url: "https://tuonome.github.io"
+author:
+  name: Marco Geek
+lang: it
